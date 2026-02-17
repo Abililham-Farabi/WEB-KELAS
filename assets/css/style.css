@@ -770,11 +770,18 @@ footer {
 
     .hero-description {
         font-size: 1rem;
+        margin-bottom: 50px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
     .btn {
         padding: 14px 32px;
         font-size: 0.9rem;
+    }
+
+    .dosen-info #penjelasan-wali-dosen {
+        text-align: left;
     }
 
     .section-title h2 {
